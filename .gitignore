@@ -1,5 +1,9 @@
  #.idea
- .idea/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/padelApp.iml
+.idea/workspace.xml
 
  # Byte-compiled / optimized / DLL files
 __pycache__/
